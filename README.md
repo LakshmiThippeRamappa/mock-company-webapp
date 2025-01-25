@@ -27,7 +27,7 @@ workstation first:
 ### IDE Setup
 
 You can use your IDE of choice to develop in this app but it should have Java/Gradle support at
-a minimum.  The best recommendation for IDE is [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/) as
+a minimum.  The best recommendation for IDE is [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/) or Eclipse as
 it's free and works very well with Java/Gradle/Spring/Groovy/Spock.
 
 ## Getting Started
